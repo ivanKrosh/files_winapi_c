@@ -1,0 +1,23 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Сценарії/">
+    <File Path="Сценарії/demo01_fread.cmd" />
+    <File Path="Сценарії/demo02_seek.cmd" />
+    <File Path="Сценарії/demo03_create.cmd" />
+    <File Path="Сценарії/demo04_share.cmd" />
+    <File Path="Сценарії/demo05_lock.cmd" />
+    <File Path="Сценарії/demo06_manage.cmd" />
+  </Folder>
+  <Folder Name="/Файли/">
+    <File Path="Файли/marks.bin" />
+  </Folder>
+  <Project Path="Demo1_fread/Demo1_fread.vcxproj" Id="2704c87d-e2b2-4cec-820d-e72fd7b88631" />
+  <Project Path="Demo2_seek/Demo2_seek.vcxproj" Id="39a8b705-f4b9-4ec0-a4af-66d7bc8a546a" />
+  <Project Path="Demo3_create/Demo3_create.vcxproj" Id="23ca8282-ed66-4375-a0d9-b270d268e2b4" />
+  <Project Path="Demo4_share/Demo4_share.vcxproj" Id="44895559-cd53-4753-846f-9fc3d0e1aebe" />
+  <Project Path="Demo5_lock/Demo5_lock.vcxproj" Id="b8cceffc-3179-46a3-ab5e-7dbcfc21b124" />
+  <Project Path="Demo6_manage/Demo6_manage.vcxproj" Id="81a6510b-b479-4029-9d23-5a8eae61793a" />
+</Solution>
